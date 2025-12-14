@@ -1,0 +1,28 @@
+baseURL = "https://jiawenxiong.github.io/papersum/"
+# languageCode = 'en-us'
+# baseURL = getenv "HUGO_BASEURL" "http://localhost:1313/"
+title = '家文的论文总结网站'
+theme = "PaperMod"
+enableEmoji = true
+pagination.pagerSize = 5
+
+defaultContentLanguage = "zh-cn"
+
+[languages]
+[languages.zh-cn]
+languageCode = "zh-CN"
+languageName = "简体中文"
+weight = 1
+
+[params]
+showToc = true
+tocopen = true
+ShowReadingTime = true
+# ShowShareButtons = true
+ShowPostNavLinks = true
+# ShowBreadCrumbs = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
