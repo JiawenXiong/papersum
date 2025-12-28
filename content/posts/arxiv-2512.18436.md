@@ -1,4 +1,9 @@
-# VeruSAGE：基于代理的大规模 Rust 系统验证研究
++++
+date = '2025-12-28T19:04:05+01:00'
+draft = false
+title = 'VeruSAGE：基于代理的大规模 Rust 系统验证研究'
+
++++
 
 **英文标题：** VeruSAGE: A Study of Agent-Based Verification for Rust Systems
 **作者：** Chenyuan Yang, Natalie Neamtu, Chris Hawblitzel, Jacob R. Lorch, Shan Lu
