@@ -1,7 +1,7 @@
 baseURL = "https://jiawenxiong.github.io/papersum/"
 # languageCode = 'en-us'
 # baseURL = getenv "HUGO_BASEURL" "http://localhost:1313/"
-title = '家文的论文总结网站'
+title = '家文的知识库网站'
 theme = "PaperMod"
 enableEmoji = true
 pagination.pagerSize = 5
